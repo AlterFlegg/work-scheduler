@@ -1,4 +1,4 @@
-# EventScheduler
+# Event Scheduler
 
 ## Development server
 
